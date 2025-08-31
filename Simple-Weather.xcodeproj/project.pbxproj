@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		6E0393532E6479D1004DEBB9 /* Simple-Weather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "Simple-Weather.app"; path = "/Users/sunnatbek/Desktop/My File/Simple-Weather/build/Debug-iphoneos/Simple-Weather.app"; sourceTree = "<absolute>"; };
+		6EDF1D912E647E4300BAE487 /* Simple-Weather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "Simple-Weather.app"; path = "/Users/sunnatbek/Desktop/My File/Simple-Weather/build/Debug-iphoneos/Simple-Weather.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -58,7 +58,7 @@
 			packageProductDependencies = (
 			);
 			productName = "Simple-Weather";
-			productReference = 6E0393532E6479D1004DEBB9 /* Simple-Weather.app */;
+			productReference = 6EDF1D912E647E4300BAE487 /* Simple-Weather.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
